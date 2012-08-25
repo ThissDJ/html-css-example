@@ -1,6 +1,5 @@
 html-css-example
 ================
 
-description of html-css-example
-1111111  yes
-oh yes
+给初学html和css用的一些模版文件
+Examples for Html and Css learners
